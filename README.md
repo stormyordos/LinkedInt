@@ -3,6 +3,7 @@
 Original Scraper by Danny Chrastil (@DisK0nn3cT): https://github.com/DisK0nn3cT/linkedin-gatherer
 
 Modified by @vysecurity
+Patched by @stormyordos
 
 # Requirements
 ```
@@ -11,6 +12,10 @@ pip install thready
 ```
 
 # Change Log
+[02-05-2019]
+* Patch: compatibility with the new code changes on Linkedin (loginCsrfParam and login page URI)
+* Included a sample LinkedInt.cfg
+
 
 [v0.1 BETA 12-07-2017]
 Additions:
