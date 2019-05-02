@@ -3,6 +3,7 @@
 Original Scraper by Danny Chrastil (@DisK0nn3cT): https://github.com/DisK0nn3cT/linkedin-gatherer
 
 Modified by @vysecurity
+
 Patched by @stormyordos
 
 # Requirements
